@@ -18,6 +18,10 @@ def main():
             'ua-logo.png',
             (238, 177, 17),
             (0, 0, 255)]
+    links['SaveLife'] = ["https://savelife.in.ua/en/donate/",
+            'sl-logo.png',
+            (142, 142, 142),
+            (68, 68, 68)]
 
 
     for k,v in links.items():
